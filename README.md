@@ -26,8 +26,8 @@ drwx  <b><a href="#">Period_Tracker_AI</a></b>
 drwx  <b><a href="#">GenZ_Planner</a></b>
 ↳ <span style="color: #888;">[Location Intelligence]</span>
 
-drwx  <b><a href="#">Indrav_Pvt_Ltd</a></b>
-↳ <span style="color: #888;">[Founders Office Operations]</span>
+drwx  <b><a href="#">Freelance_Ops</a></b>
+↳ <span style="color: #888;">[Design & Photography]</span>
 </pre>
 
 <br/>
@@ -69,7 +69,7 @@ drwx  <b><a href="#">Indrav_Pvt_Ltd</a></b>
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0f0c29&height=50&section=footer&text=ID:%20024525%20//%20WEST%20BENGAL%20//%20EST.%202025&fontSize=15&fontColor=555&fontAlignY=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0f0c29&height=50&section=footer&text=SYSTEM:%20ENCRYPTED%20//%20NODE:%20SECURE%20//%20EST.%202025&fontSize=15&fontColor=555&fontAlignY=50" width="100%" />
 
 <div align="center">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN">
