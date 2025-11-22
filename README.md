@@ -94,7 +94,7 @@ projects/
 ![Premiere](https://img.shields.io/badge/Premiere_Pro-191919?style=flat&logo=adobepremierepro&logoColor=white)
 
 **Hardware**  
-`Canon R50` • `50mm Prime` • `Audio Design`
+`Canon R50` • `50mm Prime` • `75-300mm Zoom`
 
 ### `// ACADEMIC TRACK`
 
@@ -123,7 +123,7 @@ focus = Network Security + Ethical Hacking
 
 [![LinkedIn](https://img.shields.io/badge/PROFESSIONAL_NETWORK-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arkadeep-chakraborty)
 [![Instagram](https://img.shields.io/badge/VISUAL_PORTFOLIO-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ckrbtyy)
-[![Email](https://img.shields.io/badge/DIRECT_CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/DIRECT_CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arkadeepchakrabortycollege@gmail.com)
 
 ```
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
