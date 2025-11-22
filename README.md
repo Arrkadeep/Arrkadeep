@@ -5,10 +5,10 @@
 
 **`VISUAL ARCHITECT × VIBE CODER × CYBER SENTINEL`**
 
-```ascii
-╔═══════════════════════════════════════════════════════════╗
-║  ORCHESTRATING AI  //  DESIGNING REALITY  //  EST. 2025  ║
-╚═══════════════════════════════════════════════════════════╝
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  ORCHESTRATING AI  //  DESIGNING REALITY  //  EST. 2025
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=600&lines=Initializing+neural+pathways...;Loading+creative+engines...;Compiling+visual+syntax...;System+online.+Ready+to+build.)](https://git.io/typing-svg)
@@ -128,14 +128,14 @@ focus = Network Security + Ethical Hacking
 
 ### `// CONNECT`
 
-[![LinkedIn](https://img.shields.io/badge/PROFESSIONAL_NETWORK-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Instagram](https://img.shields.io/badge/VISUAL_PORTFOLIO-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM)
+[![LinkedIn](https://img.shields.io/badge/PROFESSIONAL_NETWORK-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arkadeep-chakraborty)
+[![Instagram](https://img.shields.io/badge/VISUAL_PORTFOLIO-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ckrbtyy)
 [![Email](https://img.shields.io/badge/DIRECT_CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
-```ascii
-╔══════════════════════════════════════════════════════╗
-║  SEEKING: Creative Collaborations × Startup Builds  ║
-╚══════════════════════════════════════════════════════╝
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  SEEKING: Creative Collaborations × Startup Builds
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
 <sub>ARKADEEP CHAKRABORTY © 2025 • Kolkata, India</sub>
