@@ -1,17 +1,12 @@
-```markdown
 <div align="center">
 
-# ARKADEEP CHAKRABORTY
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f0c29&height=300&section=header&text=ARKADEEP&desc=VIBE%20CODER%20//%20VISUAL%20ARCHITECT&fontSize=70&fontAlignY=35&descAlignY=60&descSize=20&animation=fadeIn&fontColor=00f2ff" width="100%" alt="Cinematic Header" />
 
-**`VISUAL ARCHITECT × VIBE CODER × CYBER SENTINEL`**
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=500&size=22&duration=3000&pause=1000&color=00F2FF&center=true&vCenter=true&width=500&lines=Initializing+System...;Identity:+Cyber+Security+Student;Role:+Product+Builder+%2F%2F+Photographer;Status:+Orchestrating+AI+Workflows...;System+Online." alt="Typing SVG" />
+</a>
 
-```ascii
-╔═══════════════════════════════════════════════════════════╗
-║  ORCHESTRATING AI  //  DESIGNING REALITY  //  EST. 2025  ║
-╚═══════════════════════════════════════════════════════════╝
-```
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=600&lines=Initializing+neural+pathways...;Loading+creative+engines...;Compiling+visual+syntax...;System+online.+Ready+to+build.)](https://git.io/typing-svg)
+<br/>
 
 </div>
 
@@ -128,17 +123,16 @@ focus = Network Security + Ethical Hacking
 
 ### `// CONNECT`
 
-[![LinkedIn](https://img.shields.io/badge/PROFESSIONAL_NETWORK-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Instagram](https://img.shields.io/badge/VISUAL_PORTFOLIO-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM)
+[![LinkedIn](https://img.shields.io/badge/PROFESSIONAL_NETWORK-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arkadeep-chakraborty)
+[![Instagram](https://img.shields.io/badge/VISUAL_PORTFOLIO-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ckrbtyy)
 [![Email](https://img.shields.io/badge/DIRECT_CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
-```ascii
-╔══════════════════════════════════════════════════════╗
-║  SEEKING: Creative Collaborations × Startup Builds  ║
-╚══════════════════════════════════════════════════════╝
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  SEEKING: Creative Collaborations × Startup Builds
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
 <sub>ARKADEEP CHAKRABORTY © 2025 • Kolkata, India</sub>
 
 </div>
-```
